@@ -2551,109 +2551,109 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 
 		// 明智秀滿
 
-		"npc_dota_hero_legion_commander"	"明智秀滿"
-		"npc_dota_hero_legion_commander_hype"	"明智秀滿（約1536年 - 1582年7月4日），日本戰國時代至安土桃山時代的武將，是明智光秀重要的部將，擔任左馬助一職，故又有一稱為明智左馬介秀滿。天正十年（1582年），於本能寺之變中擔任先鋒，負責攻擊本能寺。戰後負責擔任安土城的守備。聽到明智光秀於山崎之戰遭到羽柴秀吉擊敗之後，他帶兵救援，卻在路上遭到崛秀政擊敗。他逃到坂本城，後來遭圍城後與妻子一起自殺。"
+		"npc_dota_hero_legion_commander"	"Akechi Hidemitsu"
+		"npc_dota_hero_legion_commander_hype"	"Akechi Hidemitsu (Born in year 1536 - 1582 July 4th), he was a general who served during the warring periods in Japan who was also capable of intelligent tactics. He led the attack on Battle of Honnō-ji which killed Oda Nobunaga, and became a legend for his rapid crossing of Lake Biwa to get from Otsu to Sakamoto on horseback after the loss of Battle of Yamazaki and the death of Mitsuhide. He later took his own life with his wife after a siege at Sakamoto Castle."
 
-		"DOTA_Tooltip_Ability_C02W" "蜃氣襲"
-		"DOTA_Tooltip_Ability_C02W_Description" "對指定的方向揮出一道蜃氣，對掃過的敵軍造成<font color='#5cb85c'>(200/300/400/500)</font>傷害，並且若傷害敵方英雄，則造出該英雄的幻影，幻影可以造成30% 傷害，受到300% 傷害。"
+		"DOTA_Tooltip_Ability_C02W" "Mirage Blast"
+		"DOTA_Tooltip_Ability_C02W_Description" "Sends a mirage wave in the appointed direction, sweeping and dealing <font color='#5cb85c'>(200/300/400/500)</font> damage to enemies, if the mirage wave hits an enemy hero, an illusion of the enemy hero will appear immediately attacking the enemy hero, the illusion does 30% damage and takes 300% damage."
 
-		"DOTA_Tooltip_Ability_C02E" "幻移"
-		"DOTA_Tooltip_Ability_C02E_Description" "立即往面對的方向瞬移650距離並在原地留下一個自身的幻影，瞬移過後將會增加<font color='#5cb85c'>(50/75/100/125)% </font>攻速以及6% 移動速度，持續<font color='#5cb85c'>(5/8/11/14)</font>秒。"
+		"DOTA_Tooltip_Ability_C02E" "Illusion Blink"
+		"DOTA_Tooltip_Ability_C02E_Description" "Immediately blink a distance of 650 while leaving an illusion of your own at the spot you blinked from, after blinking, your attack speed will increase by <font color='#5cb85c'>(50/75/100/125)% </font> and movement speed by 6%，lasts <font color='#5cb85c'>(5/8/11/14)</font> seconds."
 
-		"DOTA_Tooltip_Ability_C02R" "鏡花水月"
-		"DOTA_Tooltip_Ability_C02R_Description" "在戰鬥中有<font color='#5cb85c'>(7/12/17/22)% </font>的機會閃避攻擊，並且攻擊可以造出攻擊目標的幻影，幻影可以造成80% 傷害，受到300% 傷害，持續8秒，此效果每<font color='#5cb85c'>(20/16/12/8)</font>秒最多發動一次。"
+		"DOTA_Tooltip_Ability_C02R" "Elusive Tactics"
+		"DOTA_Tooltip_Ability_C02R_Description" "Hidemitsu has a <font color='#5cb85c'>(7/12/17/22)% </font> chance of evading attacks, and also immediately creates an illusion of the target enemy that is being attacked, the illusion will deal 80% damage and take 300% damage which lasts 8 seconds. This illusion effect can only trigger once every <font color='#5cb85c'>(20/16/12/8)</font> seconds."
 
-		"DOTA_Tooltip_Ability_C02T" "汰選斬擊"
-		"DOTA_Tooltip_Ability_C02T_Description" "能夠對弱者一擊必殺的斬擊。當汰選斬擊對目標敵軍斬下的時候，若該敵軍的生命值低於<font color='#5cb85c'>(600/750/900)</font>，則會直接將之斬殺。若生命值未低於一定值，則對他造成<font color='#5cb85c'>(450/600/750)</font>的傷害並且暈眩2秒，並在接下來的30秒獲得 浩瀚之力，每次傷害有50% 機率造成<font color='#5cb85c'>(180/230/280)</font>的範圍傷害。"
+		"DOTA_Tooltip_Ability_C02T" "Culling Slash"
+		"DOTA_Tooltip_Ability_C02T_Description" "Hidemitsu spots a weakness and immediately kills an enemy with health points lower than <font color='#5cb85c'>(600/750/900)</font>. If health points are not below the above stated values, he will deal <font color='#5cb85c'>(450/600/750)</font> damage and stun the target for 2 seconds, also grants Wrecking Force for 30 seconds, which has a 50% chance of dealing <font color='#5cb85c'>(180/230/280)</font> damage to the surrounding enemies."
 
-		"DOTA_Tooltip_modifier_C02E_buff" "幻移"
-		"DOTA_Tooltip_modifier_C02E_buff_Description" "提升攻擊與移動速度。"
+		"DOTA_Tooltip_modifier_C02E_buff" "Illusion Blink"
+		"DOTA_Tooltip_modifier_C02E_buff_Description" "Increased attack speed and movement speed."
 
-		"DOTA_Tooltip_modifier_C02R" "鏡花水月"
-		"DOTA_Tooltip_modifier_C02R_Description" "提升閃避機率，可以造出攻擊目標的幻影。"
+		"DOTA_Tooltip_modifier_C02R" "Elusive Tactics"
+		"DOTA_Tooltip_modifier_C02R_Description" "Increased dodge chance and creates an illusion of the target on the next attack."
 
-		"DOTA_Tooltip_modifier_C02R_Timer" "鏡花水月"
-		"DOTA_Tooltip_modifier_C02R_Timer_Description" "提升閃避機率，等待複製效果啟動。"
+		"DOTA_Tooltip_modifier_C02R_Timer" "Elusive Tactics"
+		"DOTA_Tooltip_modifier_C02R_Timer_Description" "Increased dodge chance."
 
-		"DOTA_Tooltip_modifier_C02T_aoe" "浩瀚之力"
-		"DOTA_Tooltip_modifier_C02T_aoe_Description" "普通攻擊有機會造成範圍真實傷害。"
+		"DOTA_Tooltip_modifier_C02T_aoe" "Wrecking Force"
+		"DOTA_Tooltip_modifier_C02T_aoe_Description" "Auto attacks have a chance of dealing extra damage."
 
 		// 明智秀滿 11.2B
 
-		"DOTA_Tooltip_Ability_C02W_old" "海波浩蕩"
-		"DOTA_Tooltip_Ability_C02W_old_Description" "對指定的方向斬出一道水波，讓距離800內所有敵人受到<font color='#5cb85c'>(250/350/450/550)</font>點傷害。區域範圍起始100，擴散至300。浩浩蕩蕩，沛然無匹，刀光所到，當者披靡。"
+		"DOTA_Tooltip_Ability_C02W_old" "Wave of the Seas"
+		"DOTA_Tooltip_Ability_C02W_old_Description" "Sends a mighty wave forth in the direction chosen, dealing <font color='#5cb85c'>(250/350/450/550)</font> damage for a distance of 800. Width of wave starts from 100 increasing to 300 at the end of the wave."
 
-		"DOTA_Tooltip_Ability_C02E_old" "吸魂"
-		"DOTA_Tooltip_Ability_C02E_old_Description" "吸收指定目標的生命本質，每0.5秒奪取<font color='#5cb85c'>(80/100/120/140)</font>生命值及<font color='#5cb85c'>(10/15/20/25)</font>法力。"
+		"DOTA_Tooltip_Ability_C02E_old" "Spirit Siphon"
+		"DOTA_Tooltip_Ability_C02E_old_Description" "Absorbs the target's spirit，stealing and absorbing<font color='#5cb85c'>(80/100/120/140)</font>health points and <font color='#5cb85c'>(10/15/20/25)</font> mana points every 0.5 seconds."
 
-		"DOTA_Tooltip_Ability_C02R_old" "鬼武者劍術"
-		"DOTA_Tooltip_Ability_C02R_old_Description" "攻擊時15% 造成<font color='#5cb85c'>(2.5/3/3.5/4)</font>倍傷害，並有<font color='#5cb85c'>(4/8/12/16)% </font>機會閃避攻擊。"
+		"DOTA_Tooltip_Ability_C02R_old" "Ghost Blade"
+		"DOTA_Tooltip_Ability_C02R_old_Description" "Attacks have a 15% chance of dealing<font color='#5cb85c'>(2.5/3/3.5/4)</font>times the damage. Also increases dodge chance by <font color='#5cb85c'>(4/8/12/16)% </font>."
 
-		"DOTA_Tooltip_Ability_C02T_old" "炎龍劍"
-		"DOTA_Tooltip_Ability_C02T_old_Description" "讓武器上附加炎之力，對指定敵人連續斬擊數次給予炎爆，使目標產生<font color='#5cb85c'>(1250/1500/1750)</font>點傷害。並且在施展後的30秒內攻擊時50% 造成250範圍所有敵人<font color='#5cb85c'>(180/230/280)</font>點爆裂傷害。"
+		"DOTA_Tooltip_Ability_C02T_old" "Inferno Blaze"
+		"DOTA_Tooltip_Ability_C02T_old_Description" "Imbues his blade with the power of an inferno, and hacks and slash a target enemy multiple times, dealiing a total of<font color='#5cb85c'>(1250/1500/1750)</font>damage. Also grants an auto attack buff that has a 50% chance of dealing <font color='#5cb85c'>(180/230/280)</font> damage in a 250 radius which lasts for 30 seconds."
 	
-		"DOTA_Tooltip_modifier_C02E_old" "吸魂"
-		"DOTA_Tooltip_modifier_C02E_old_Description" "持續損失生命與法力。"
+		"DOTA_Tooltip_modifier_C02E_old" "Spirit Siphon"
+		"DOTA_Tooltip_modifier_C02E_old_Description" "Absorbing health and mana points."
 
-		"DOTA_Tooltip_modifier_C02R_old" "鬼武者劍術"
-		"DOTA_Tooltip_modifier_C02R_old_Description" "提升閃避機率，攻擊有機會造成額外傷害。"
+		"DOTA_Tooltip_modifier_C02R_old" "Ghost Blade"
+		"DOTA_Tooltip_modifier_C02R_old_Description" "Increased dodge chance, attacks have a chance of dealing extra damage."
 
-		"DOTA_Tooltip_modifier_C02T_old_playing" "炎龍劍"
-		"DOTA_Tooltip_modifier_C02T_old_playing_Description" "動畫中無法操作。"
+		"DOTA_Tooltip_modifier_C02T_old_playing" "Inferno Blaze"
+		"DOTA_Tooltip_modifier_C02T_old_playing_Description" "No action can be made during the animation."
 
-		"DOTA_Tooltip_modifier_C02T_old_aoe" "炎龍劍"
-		"DOTA_Tooltip_modifier_C02T_old_aoe_Description" "攻擊有機會造成範圍傷害。"
+		"DOTA_Tooltip_modifier_C02T_old_aoe" "Inferno Blaze"
+		"DOTA_Tooltip_modifier_C02T_old_aoe_Description" "Attacks have a chance of dealing radial damage."
 
 		// 馬場信房
 
-		"npc_dota_hero_chaos_knight" "馬場信房"
-		"npc_dota_hero_chaos_knight_hype" "信房的出身是正統甲斐武將，父親是甲斐武士遠江守信保，其後由於武田家譜代家臣馬場虎貞向信玄的父親信虎諫言，故入籍馬場家，因而改名為馬場信春。 1546年更以「旗本組侍大將持有騎馬五十騎」的獎勵受到拔擢，同時受信玄之命改名信房。第四次川中島之戰，信房擔任妻女山攻擊機動隊，率一百二十騎重創越後上杉軍，勇名大噪，另外在武田信玄重擊德川家康的三方原之戰中，信房與山縣昌景、內藤昌豊擔任頭陣，對家康軍瘋狂追擊，功績第一。1564年武田名將「鬼美濃」原虎胤死後，信玄命信房繼承鬼美濃的武名，並受封美濃守信房。"
+		"npc_dota_hero_chaos_knight" "Baba Nobuharu"
+		"npc_dota_hero_chaos_knight_hype" "Nobuharu was gifted as samurai warrior, and soon took on the arts of horsemanship."
 
-		"DOTA_Tooltip_Ability_B21W" "破空波"
-		"DOTA_Tooltip_Ability_B21W_Description" "對著指定方向發出一道破空波，可以造成<font color='#5cb85c'>(250/350/450/550)</font>的傷害。"
+		"DOTA_Tooltip_Ability_B21W" "Sonic Waves"
+		"DOTA_Tooltip_Ability_B21W_Description" "Sends forth a sonic air blast in the direction pointed, dealing <font color='#5cb85c'>(250/350/450/550)</font> damage."
 
-		"DOTA_Tooltip_Ability_B21E" "殺意"
-		"DOTA_Tooltip_Ability_B21E_Description" "解放殺意來增加30% 的移動速度以及<font color='#5cb85c'>(35/60/85/110)% </font>攻擊速度，周圍生命值低於65% 的敵軍將會因懼怕而暈眩1.5秒。殺意持續<font color='#5cb85c'>(4/8/12/16)</font>秒。"
+		"DOTA_Tooltip_Ability_B21E" "The Beast Within"
+		"DOTA_Tooltip_Ability_B21E_Description" "Unleashes his murderous intent and increases movement speed by 30% and attack speed by <font color='#5cb85c'>(35/60/85/110)% </font>, while enemies that have health points lower than 65% will be stunned due to fear for 1.5 seconds. Lasts <font color='#5cb85c'>(4/8/12/16)</font> seconds."
 
-		"DOTA_Tooltip_Ability_B21R" "反逆甲"
-		"DOTA_Tooltip_Ability_B21R_Description" "使自身護甲提昇<font color='#5cb85c'>(6/9/12/15)</font>，並且當被敵軍攻擊時，攻擊者將會受到<font color='#5cb85c'>(21/34/47/60)</font>的真實傷害。"
+		"DOTA_Tooltip_Ability_B21R" "Return Armour"
+		"DOTA_Tooltip_Ability_B21R_Description" "Increases his armor by <font color='#5cb85c'>(6/9/12/15)</font>, and whenever Nobuharu gets attacked, he will reflect <font color='#5cb85c'>(21/34/47/60)</font> true damage back to the attacker."
 
-		"DOTA_Tooltip_Ability_B21T" "不死鬼美濃"
-		"DOTA_Tooltip_Ability_B21T_Description" "永久的提升力量<font color='#5cb85c'>(15/20/25)</font>點，並且自身生命值每降低20% ，便可以提高<font color='#5cb85c'>(35/45/55)</font>的攻擊力以及<font color='#5cb85c'>(6/10/14)</font>裝甲。"
+		"DOTA_Tooltip_Ability_B21T" "Burning Soul"
+		"DOTA_Tooltip_Ability_B21T_Description" "Permanently increases Strength by <font color='#5cb85c'>(15/20/25)</font> points. Every 20% health Nobuharu has lost，he increases his attack damage by <font color='#5cb85c'>(35/45/55)</font> and armour by <font color='#5cb85c'>(6/10/14)</font>."
 
-		"DOTA_Tooltip_modifier_B21E_buff" "殺意"
-		"DOTA_Tooltip_modifier_B21E_buff_Description" "提升移動與攻擊速度。"
+		"DOTA_Tooltip_modifier_B21E_buff" "The Beast Within"
+		"DOTA_Tooltip_modifier_B21E_buff_Description" "Increases movement speed and attack speed."
 
-		"DOTA_Tooltip_modifier_B21R" "反逆甲"
-		"DOTA_Tooltip_modifier_B21R_Description" "提升物理防禦，攻擊此單位會遭受真實傷害的反擊。"
+		"DOTA_Tooltip_modifier_B21R" "Return Armour"
+		"DOTA_Tooltip_modifier_B21R_Description" "Increases physical defense and attackers attacking Nobuharu will receive true damage in return."
 
-		"DOTA_Tooltip_modifier_B21T_stack" "不死鬼美濃"
-		"DOTA_Tooltip_modifier_B21T_stack_Description" "血量越低，攻擊與護甲越高"
+		"DOTA_Tooltip_modifier_B21T_stack" "Burning Soul"
+		"DOTA_Tooltip_modifier_B21T_stack_Description" "The lower the hitpoints, the higher the attack and the armour."
 
 		// 馬場信房 11.2B
 
-		"DOTA_Tooltip_Ability_B21W_old" "波動三連斬"
-		"DOTA_Tooltip_Ability_B21W_old_Description" "往前方800距離一直線上快速的連斬三次發出波動，每個波動都 可造成<font color='#5cb85c'>(100/200/300/400)</font>點傷害。"
+		"DOTA_Tooltip_Ability_B21W_old" "Triple Sonic Slash"
+		"DOTA_Tooltip_Ability_B21W_old_Description" "Sends a triple sonic wave in the direction at a distance of 800, each wave deals <font color='#5cb85c'>(100/200/300/400)</font> damage."
 
-		"DOTA_Tooltip_Ability_B21E_old" "殺意"
-		"DOTA_Tooltip_Ability_B21E_old_Description" "暈眩目標1秒。目標生命值50% 以下時，能增加自身<font color='#5cb85c'>(30/40/50/60)% </font>攻擊力、攻擊及移動速度，持續10秒。"
+		"DOTA_Tooltip_Ability_B21E_old" "The Beast Within"
+		"DOTA_Tooltip_Ability_B21E_old_Description" "Stuns target for 1 second. If target's health was lower than 50% at the time the skill was used, increases your attack damage, attack speed and movement speed by <font color='#5cb85c'>(30/40/50/60)% </font"> which lasts for 10 seconds."
 
-		"DOTA_Tooltip_Ability_B21R_old" "領軍如神"
-		"DOTA_Tooltip_Ability_B21R_old_Description" "增加900範圍友軍裝甲<font color='#5cb85c'>(4/10/16/22)</font>點。"
+		"DOTA_Tooltip_Ability_B21R_old" "General of War"
+		"DOTA_Tooltip_Ability_B21R_old_Description" "Increases allies armor by <font color='#5cb85c'>(4/10/16/22)</font> points in a radial range of 900."
 
-		"DOTA_Tooltip_Ability_B21T_old" "不死鬼美濃"
-		"DOTA_Tooltip_Ability_B21T_old_Description" "增加<font color='#5cb85c'>(22/33/44)</font>點力量值。生命低於<font color='#5cb85c'>(1600)</font>點時增加<font color='#5cb85c'>(210/360/520)</font>點攻擊力與<font color='#5cb85c'>(70/90/110)</font>點裝甲。"
+		"DOTA_Tooltip_Ability_B21T_old" "Burning Soul"
+		"DOTA_Tooltip_Ability_B21T_old_Description" "Increases strength by <font color='#5cb85c'>(22/33/44)</font> points. When health points is lower than <font color='#5cb85c'>(1600)</font>, it also increases attack damage by <font color='#5cb85c'>(210/360/520)</font> and armour by <font color='#5cb85c'>(70/90/110)</font>."
 
-		"DOTA_Tooltip_modifier_B21E_old_buff" "殺意"
-		"DOTA_Tooltip_modifier_B21E_old_buff_Description" "提升攻擊力、移動與攻擊速度。"
+		"DOTA_Tooltip_modifier_B21E_old_buff" "The Beast Within"
+		"DOTA_Tooltip_modifier_B21E_old_buff_Description" "Increased attack speed, attack damage and movement speed."
 
-		"DOTA_Tooltip_modifier_B21R_old_aura" "領軍如神"
-		"DOTA_Tooltip_modifier_B21R_old_aura_Description" "提升自身與周圍友軍護甲。"
+		"DOTA_Tooltip_modifier_B21R_old_aura" "General of War"
+		"DOTA_Tooltip_modifier_B21R_old_aura_Description" "Increases armour of allies and yourself."
 
-		"DOTA_Tooltip_modifier_B21R_old_buff" "領軍如神"
-		"DOTA_Tooltip_modifier_B21R_old_buff_Description" "提升護甲。"
+		"DOTA_Tooltip_modifier_B21R_old_buff" "General of War"
+		"DOTA_Tooltip_modifier_B21R_old_buff_Description" "Increases armour."
 
-		"DOTA_Tooltip_modifier_B21T_old" "不死鬼美濃"
-		"DOTA_Tooltip_modifier_B21T_old_Description" "提升攻擊力與護甲。"
+		"DOTA_Tooltip_modifier_B21T_old" "Burning Soul"
+		"DOTA_Tooltip_modifier_B21T_old_Description" "Increased attack damage and armour."
 	}
 }
